@@ -1,4 +1,4 @@
-package Exams;
+package laxmiCSC123Sp21Mid2;
 
 public class FirstClassPassenger extends Passenger
 {

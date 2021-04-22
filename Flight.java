@@ -1,4 +1,4 @@
-package Exams;
+package laxmiCSC123Sp21Mid2;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.*;
